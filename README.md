@@ -1,6 +1,6 @@
 <h1 align="left">Hello There 👋</h1>
 I'm Enzo Bressan Crivellaro, a Data Science and Artificial Intelligence Student and AI Art Enthusiast from Brazil.</p>
-I am currently available for work ✨
+Currently working on Vivo Telefônica ✨
 
 # Learning ✏️:
 - Data Analysis 📊
