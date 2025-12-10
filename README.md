@@ -3,7 +3,7 @@ I am Enzo Bressan Crivellaro, Junior Systems Analyst and art technology enthusia
 Currently working on Vivo Telefônica ✨
 
 # Learning ✏️:
-- Uses for AI in Art 🎨
+- New uses of technology for creating art 🎨
 </p>
 
 <h2 align="left">👨‍💻 Languages and Tools I know 🛠:</h2>
